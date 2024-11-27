@@ -10,7 +10,7 @@ En esta pagina veremos y aprenderemos teorias del origen de la vida, porque hay 
 ## 3. Vamos con las teorias (aqui las 5 habra las más conocidas)
 - Teoria Big Bang 🤯 [INFORMACION](00.Teoria_BIg_Bang/Informacion.md)
 - Evolución del hombre 🐒[INFORMACION](01.Teoria_Charles_Darwin/Informacion.md)
-- Generación espontanea 🗣️
+- Generación espontanea 🗣️[INFORMACION](02.Teoria_Generación_Espontanea/Informacion.md)
 - Teoria panspermica ⚛️
 - Teoria del ADN 🧬
 
