@@ -4,5 +4,5 @@ El conjunto de estas teorías científicas, conocidas también como darwinismo o
 
 ---
 
-<img src=<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.es%2Ffotos%2Fevolution-darwin&psig=AOvVaw11s0xzd-fogmUB6HHKZTRf&ust=1732795120925000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjmy_66_IkDFQAAAAAdAAAAABAE alt="Una imagen interesante" width="500" height="auto" /> 
+<img src=<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.es%2Ffotos%2Fevolution-darwin&psig=AOvVaw11s0xzd-fogmUB6HHKZTRf&ust=1732795120925000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjmy_66_IkDFQAAAAAdAAAAABAE" alt="Una imagen interesante" width="500" height="auto" /> 
 
