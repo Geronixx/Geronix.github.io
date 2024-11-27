@@ -1,19 +1,24 @@
 # ¡¡¡Bienvenidos a mi pagina web!!!
+----
 ## 1. Introducción 🎯
 Soy Sergio Martínez y aqui os dejo mi primera web.
 En esta pagina veremos y aprenderemos teorias del origen de la vida, porque hay muchas preguntas y muchas hipotesis sobre este tema.
+
+----
 ## 2. Objetivos de la pagina 💡
 - Investigar sobre las distintas teorias que nos plantean
 - Sacar tus propias teorias
 - Sacar tus propias conclusiones
 - Mirar que teoria se corresponde o se parece mas a tu teoria planteada
 - Compartir tus propios pensamientos o tus propias teorias
+----
 ## 3. Vamos con las teorias (aqui las 5 habra las más conocidas) ✅
-- Teoria Big Bang 🤯 [INFORMACION](00.Teoria_BIg_Bang/Informacion.md)
+- Teoria Big Bang 🤯[INFORMACION](00.Teoria_BIg_Bang/Informacion.md)
 - Evolución del hombre 🐒[INFORMACION](01.Teoria_Charles_Darwin/README.md)
 - Generación espontanea 🗣️[INFORMACION](02.Teoria_Generación_Espontanea/README.md)
 - Teoria panspermica ⚛️[INFORMACION](03.Teoria_panspermica/README.md)
 - Teoria del ADN 🧬[INFORMACION](04.Teoria_del_ADN/README.md)
+-----
 
 ## 4. MI PROPIA TEORIA 🧑‍💻
 Aqui dare mi opinion de todas las teorias que vamos a ver:
