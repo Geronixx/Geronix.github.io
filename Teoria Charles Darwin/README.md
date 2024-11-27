@@ -4,5 +4,5 @@ El conjunto de estas teorías científicas, conocidas también como darwinismo o
 
 ---
 
-<img src=<img src="https://media.gettyimages.com/id/165960104/es/vector/vector-de-concepto-de-evoluci%C3%B3n-humana.jpg?s=612x612&w=gi&k=20&c=1-6UXLGk7Jekvzfl1W8GCkbrjUb56rMrg9lhOl_zMX0=" alt="Una imagen interesante" width="500" height="auto" /> 
+<img src=<img src="https://img.freepik.com/vector-gratis/charles-darwin-ciencia-evolucion_1308-84305.jpg" alt="Una imagen interesante" width="500" height="auto" /> 
 
