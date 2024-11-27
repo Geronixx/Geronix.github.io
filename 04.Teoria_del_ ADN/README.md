@@ -1,4 +1,4 @@
-## TEORIA DEL ADN
+## TEORIA DEL ADN 🧬
 A partir de los trabajos de Alexandr Oparin y de la comprensión del ADN y de los mecanismos de la herencia genética, las teorías sobre el origen de la vida se guían por un marco científico, especialmente bioquímico y geoquímico.
 Las teorías científicas proponen la vida como resultado de una serie compleja e impredecible de reacciones químicas inorgánicas que permitieron el paulatino surgimiento de las primeras y primitivas formas de vida celular.
 
