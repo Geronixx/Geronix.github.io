@@ -14,7 +14,7 @@ En esta pagina veremos y aprenderemos teorias del origen de la vida, porque hay 
 - Teoria panspermica ⚛️[INFORMACION](03.Teoria_panspermica/README.md)
 - Teoria del ADN 🧬[INFORMACION](04.Teoria_del_ADN/README.md)
 
-## MI PROPIA TEORIA 
+## 4. MI PROPIA TEORIA 
 Aqui dare mi opinion de todas las teorias que vamos a ver:
 - Primera teoria 🤯: Desde mi punto de vista la teoria del Big Bang es cierta ya que creo que por el choque de dos metioritos o entre dos piedras es una explosion masiva, yo creo que con esa expansion se formaron pequeños fragmentos de ADN. Con ese ADN se fue creando vida en la tierra, con eso salieron todos los tipos de vegetacion y tipos de animales. Con el tiempo cada tipo de vgetacion y de animal se tuvo que ir adaptando a tu enterno y establecer su habitat. A si que yo estoy a favor de esta teoria
 
