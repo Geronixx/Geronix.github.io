@@ -18,6 +18,7 @@ En esta pagina veremos y aprenderemos teorias del origen de la vida, porque hay 
 - Generación espontanea 🗣️[INFORMACION](02.Teoria_Generación_Espontanea/README.md)
 - Teoria panspermica ⚛️[INFORMACION](03.Teoria_panspermica/README.md)
 - Teoria del ADN 🧬[INFORMACION](04.Teoria_ADN/README.md)
+
 -----
 
 ## 4. MI PROPIA TEORIA 🧑‍💻
